@@ -3,5 +3,5 @@
 
 ## Contributor 
 Jixiang LI \
-Pan Hou
+Pan HOU \
 Lingfeng ZHU
